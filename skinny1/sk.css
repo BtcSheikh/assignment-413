@@ -1,0 +1,13 @@
+body{
+	font-family: tahoma;
+	background:darkcyan;
+	color: #fff;
+
+}
+li {
+	font-size: 18px;
+}
+img{
+	height: 20px;
+	width: 200px;
+}
